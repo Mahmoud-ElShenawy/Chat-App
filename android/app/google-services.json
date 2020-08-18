@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "791638201139",
+    "firebase_url": "https://chat-app-1b9c9.firebaseio.com",
+    "project_id": "chat-app-1b9c9",
+    "storage_bucket": "chat-app-1b9c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791638201139:android:6b5839fb87720b51b66446",
+        "android_client_info": {
+          "package_name": "m.elshenawy.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791638201139-6jtmlsg9l5i4ahub7gtj2gsa1cmfl6uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6KYftl-S8g375EuUCzNzkq47T7j_EHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791638201139-6jtmlsg9l5i4ahub7gtj2gsa1cmfl6uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
