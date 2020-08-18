@@ -19,7 +19,7 @@ This is a Chat App
 - Managing Data And The Animated UI Efficiently
 
 # Screenshots 
-There are Some Screenshots to Show How My App Look. Open Screenshots Folder To See More Pictures(App/Firebase Pictures) 
+There are Some Screenshots to Show How My App Look. Open Screenshots Folder To See Pictures
 
 ![](Screenshots/1.png)
 ![](Screenshots/2.png)
@@ -29,3 +29,9 @@ There are Some Screenshots to Show How My App Look. Open Screenshots Folder To S
 ![](Screenshots/6.png)
 ![](Screenshots/7.png)
 ![](Screenshots/8.png)
+![](Screenshots/9.png)
+![](Screenshots/authentication.png)
+![](Screenshots/database.png)
+
+
+
