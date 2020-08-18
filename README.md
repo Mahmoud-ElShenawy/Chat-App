@@ -1,16 +1,31 @@
-# chatapp
+# Chat App
 
-A new Flutter application.
+This is a Chat App 
 
-## Getting Started
+# Tools
+- Firebase (Cloud Firestore)
+- Cloud Firestore Package
+- Firebase Auth Package
+- Firebase Core Package
+- Animated Text Kit Package
+- Modal Progress Hud Package
 
-This project is a starting point for a Flutter application.
+# Features
+- Connecting With Database
+- Registering Users with Firebase using FirebaseAuth
+- Authenticating Users with FirebaseAuth
+- Saving Data into Cloud Firestore
+- Listening for Data from Firebase using StreamBuilder
+- Managing Data And The Animated UI Efficiently
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshots 
+There are Some Screenshots to Show How My App Look. Open Screenshots Folder To See More Pictures(App/Firebase Pictures) 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](Screenshots/1.png)
+![](Screenshots/2.png)
+![](Screenshots/3.png)
+![](Screenshots/4.png)
+![](Screenshots/5.png)
+![](Screenshots/6.png)
+![](Screenshots/7.png)
+![](Screenshots/8.png)
